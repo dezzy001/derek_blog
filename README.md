@@ -1,2 +1,1 @@
-# derek_blog
-blog website - front end
+# Derek Blog
